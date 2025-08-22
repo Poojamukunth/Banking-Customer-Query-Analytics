@@ -1,0 +1,9 @@
+QUERY_ID,CUSTOMER_ID,QUERY TEXT,DATE,CHANNEL
+1,1001,"""I lost my debit card""",01-08-2025,E-mail
+2,1002,"""my account is not accessible""",02-08-2025,message
+3,1003,"""what is my credit card bill""",03-08-2025,customer call
+4,1004,How can I reset my net banking password?,04-08-2025,Email
+5,1005,I want to block my lost debit card,05-08-2025,Phone
+6,1006,Why was my loan application rejected?,06-08-2025,Chat
+7,1007,How do I change my registered phone number?,07-08-2025,Email
+8,1008,I need a statement for the last 6 months,08-08-2025,Branch
